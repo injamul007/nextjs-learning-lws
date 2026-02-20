@@ -5,6 +5,7 @@ const About = () => {
     <div>
       <h3>This is about page</h3>
       <p>This is about page paragraph</p>
+      <p>This is about page paragraph</p>
     </div>
   );
 };
